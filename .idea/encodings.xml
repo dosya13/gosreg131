@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gosreg13/server.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gosreg13/test.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/main" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/main/forms.py" charset="UTF-8" />
+  </component>
+</project>
